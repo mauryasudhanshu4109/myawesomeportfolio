@@ -600,7 +600,7 @@ footer .copyright a:hover{
     }
     .hero{
         padding-top: 8rem;
-        padding-bottom: 8rem;
+        padding-bottom: 3rem;
     }
     header{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 40% 89%, 0 100%);
@@ -639,7 +639,7 @@ footer .copyright a:hover{
     .hero .left{
         margin-top: -4rem;
         margin-right: -12.8rem;
-        padding-bottom: 8rem;
+        padding-bottom: 15rem;
     }
     .about-inner-wrap{
         flex-direction: column;
@@ -684,7 +684,7 @@ footer .copyright a:hover{
     }
     .hero .left img{
         width: 180px;
-        padding-top: 5rem;
-        margin-left: -100px;
+        padding-top: 4.8rem;
+        margin-left: -150px;
     }
 }
