@@ -600,7 +600,7 @@ footer .copyright a:hover{
     }
     .hero{
         padding-top: 8rem;
-        padding-bottom: 3rem;
+        padding-bottom: 1rem;
     }
     header{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 40% 89%, 0 100%);
