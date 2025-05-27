@@ -1,4 +1,2 @@
-# myawesomeportfolio.com
-My Portfolio
-
-This is an awesome portfolio I have developed in College time.
+# My Awesome Portfolio
+Take a look and share your valuable feedback.
